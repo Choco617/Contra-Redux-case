@@ -1,1 +1,1 @@
-# This is a filler readme because I am new to Github and not sure wtf I need to do to upload a couple simple files :)
+# This repo is absolutely filler because I needed a way to share my .dwgs and I am too new to Github to do so with any style :)
